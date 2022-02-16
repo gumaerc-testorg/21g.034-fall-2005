@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on the advent of the information society,
   information itself has become a prized commodity on the market.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-034-media-education-and-the-marketplace-fall-2005/fd88b4df96e4a1a7172f76fa4e849cae_MIT21G_034F05_wsisjonthnha.pdf
+file: /media/courses/21g-034-media-education-and-the-marketplace-fall-2005/fd88b4df96e4a1a7172f76fa4e849cae_MIT21G_034F05_wsisjonthnha.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: With the advent of the Information Society, information itself has become a
   prized commodity on the market

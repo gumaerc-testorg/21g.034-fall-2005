@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains adjusting, stages of cultural adjustment, and
   adjustment tips from International students.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-034-media-education-and-the-marketplace-fall-2005/88a7cdadf77293e0922d69bfefc0fbdc_MIT21G_034F05_beingintlstu.pdf
+file: /media/courses/21g-034-media-education-and-the-marketplace-fall-2005/88a7cdadf77293e0922d69bfefc0fbdc_MIT21G_034F05_beingintlstu.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: iREACT
+parent_type: CourseSection
 resourcetype: Document
 title: "Being an Int\u2019l Student in America (Courtesy of the Embassy of the United\
   \ States in Yaounde, Cameroon http://yaounde.usembassy.gov/)"

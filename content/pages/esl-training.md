@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: ESL Training
 uid: c21edfc2-95ab-37f8-c322-991367410ee4
 ---

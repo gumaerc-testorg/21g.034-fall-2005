@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: iREACT
 uid: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
 ---

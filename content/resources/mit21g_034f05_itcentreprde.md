@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on five discernable misconceptions
   about the nature of the bottom-of-pyramid (BOP) market.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-034-media-education-and-the-marketplace-fall-2005/28e4f49a85d49e20f440960184b17629_MIT21G_034F05_itcentreprde.pdf
+file: /media/courses/21g-034-media-education-and-the-marketplace-fall-2005/28e4f49a85d49e20f440960184b17629_MIT21G_034F05_itcentreprde.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 21G
 uid: 28e4f49a-85d4-9e20-f440-960184b17629
