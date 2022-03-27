@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: INTERNATIONAL  TELECOMMUNICATION  UNION
 uid: 9909f440-b32c-3a60-ddfa-7eb62709cb4f

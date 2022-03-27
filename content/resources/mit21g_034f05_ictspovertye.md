@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: ICTs and Poverty Eradication - Mohamed Haji
 uid: 486d62be-0285-875b-11cc-55695d4b6c60

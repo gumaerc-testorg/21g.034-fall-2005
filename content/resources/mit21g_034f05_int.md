@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: ESL Training
 parent_type: CourseSection
+parent_uid: c21edfc2-95ab-37f8-c322-991367410ee4
 resourcetype: Document
 title: Class One- Beginner Intermediate Level
 uid: 43d77656-c067-13be-e4bb-b11c8f5718b5

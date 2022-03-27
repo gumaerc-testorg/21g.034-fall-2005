@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: "Bridging the Digital Divide \u2013 Is it worth?"
 uid: 61cbdcc6-525e-376f-6dba-4170fd9a2447

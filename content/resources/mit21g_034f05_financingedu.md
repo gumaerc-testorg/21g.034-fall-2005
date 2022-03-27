@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: iREACT
 parent_type: CourseSection
+parent_uid: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
 resourcetype: Document
 title: Financing an Education abroad
 uid: 1f58b389-92d5-2ad6-9427-6611d0c9937d

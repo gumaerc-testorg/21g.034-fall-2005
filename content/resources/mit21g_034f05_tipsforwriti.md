@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 817b383e-7b82-2721-ac2c-16292898491a
 resourcetype: Document
 title: 'SOME TIPS FOR EFFECTIVE WRITING: Visualizing Cultures 2'
 uid: 00838946-b626-3def-b589-0b4f43eb36a2

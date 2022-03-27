@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: Poverty Eradication and the Role of ICTs
 uid: 18208267-5d41-4059-c5f0-849d181c5dbb

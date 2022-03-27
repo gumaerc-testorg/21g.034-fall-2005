@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: iREACT
 parent_type: CourseSection
+parent_uid: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
 resourcetype: Document
 title: Studying Science, Technology and Engineering (See www.transworldeducation.com/engineering.htm)
 uid: 08516866-fc98-2a2e-07db-6f6f09e5a3a8

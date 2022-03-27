@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: iREACT
 parent_type: CourseSection
+parent_uid: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
 resourcetype: Document
 title: Learning More About the College Application Essay
 uid: 604ea777-0242-1124-8b15-ed7f3d7dbc2a

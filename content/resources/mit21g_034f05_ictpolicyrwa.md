@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: Information and Communication Technology Policy in Rwanda
 uid: bd9084fd-06df-c2c1-eabb-d6889cec51e1

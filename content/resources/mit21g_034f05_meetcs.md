@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: 'Section 1: Middle East Education through Technology'
 uid: 00ab9e74-b52f-25f5-5e38-e92921d714ed

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 553609a0-02d3-74b3-9d9b-c01fee73f101
 resourcetype: Document
 title: DH-Fieldwork_Proposal marta_graded
 uid: f101d36e-9a0e-a610-4397-b512b3387551

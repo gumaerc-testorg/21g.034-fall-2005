@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: iREACT
 parent_type: CourseSection
+parent_uid: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
 resourcetype: Document
 title: "Being an Int\u2019l Student in America (Courtesy of the Embassy of the United\
   \ States in Yaounde, Cameroon http://yaounde.usembassy.gov/)"
