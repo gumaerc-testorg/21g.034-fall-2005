@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: iREACT
 uid: 83cf76f3-ed90-5f50-cad3-890fb1bfdfce
 ---
 
-![An iREACT co-founder, Jamira Cotton, teaching in Zambia.]({{< resource_file d5d4e79b-03da-5cc7-7f95-6b7bfc471547 >}})
+{{< resource d5d4e79b-03da-5cc7-7f95-6b7bfc471547 >}}
 
 An iREACT co-founder, Jamira Cotton, teaching in Zambia during the summer of 2005. (Image courtesy of Jamira Cotton.)
 
@@ -15,7 +16,7 @@ Purpose
 
 "iREACT (Internet Resources Equipping Africans for College and Technology) is a three week program for fifteen top performing junior year students in Limbe, Cameroon to equip them with necessary resources for successfully applying to college. The program will run from January 10 – 28, 2006 in Limbe, Cameroon. Fawah Akwo and Jamira Cotton will be the instructors for the course. Note that all material on this page is presented with the permission of Fawah Akwo and Jamira Cotton."
 
-iREACT Presentation ([PDF]({{< baseurl >}}/resources/mit21g_034f05_ireactmat))
+iREACT Presentation ({{% resource_link 469433c6-b829-6934-4115-768303db411d "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -54,7 +55,7 @@ Introduction to Program
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_introtoprog))
+({{% resource_link f850a373-25e8-7bee-6298-b4c6b153733a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -74,7 +75,7 @@ Blogs
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_blogs))
+({{% resource_link 32f7edb3-d28a-fcd1-139f-c9bd49b7fd38 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -108,7 +109,7 @@ Studying Science and Engineering
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_studysciengi))
+({{% resource_link 08516866-fc98-2a2e-07db-6f6f09e5a3a8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -128,7 +129,7 @@ Being an International Student in America
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_beingintlstu))
+({{% resource_link 88a7cdad-f772-93e0-922d-69bfefc0fbdc "PDF" %}})
 
 
 {{< tdclose >}}
@@ -154,7 +155,7 @@ Financing an Education abroad
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_financingedu))
+({{% resource_link 1f58b389-92d5-2ad6-9427-6611d0c9937d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -188,7 +189,7 @@ SAT Introduction
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_satintro))
+({{% resource_link 42b5e9ad-76a1-eff2-4635-37ba8c65695f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -222,7 +223,7 @@ Introduction to TOEFL
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_intrototoefl))
+({{% resource_link 1a4db59f-34f9-2406-089d-c92ed642ce47 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -246,7 +247,7 @@ Essay Information
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit21g_034f05_essayinfo))
+({{% resource_link 604ea777-0242-1124-8b15-ed7f3d7dbc2a "PDF" %}})
 
 
 {{< tdclose >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: ESL Training
@@ -82,7 +83,7 @@ Couldn't (cuhdnt); What Do You (whaddoyou); I'll (eyeyull)
 
 Video ([MP4 - 17MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-beg-int-esl-class-1-220k.mp4))
 
-Video Text ([PDF]({{< baseurl >}}/resources/mit21g_034f05_beg_int))
+Video Text ({{% resource_link 6ec6d469-e73e-56e5-14f2-3030c06a637d "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -153,7 +154,7 @@ Out of (ahouda)
 
 Video ([MP4 - 18MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-int-eslclass-1-220k.mp4))
 
-Video Text ([PDF]({{< baseurl >}}/resources/mit21g_034f05_int))
+Video Text ({{% resource_link 43d77656-c067-13be-e4bb-b11c8f5718b5 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -224,4 +225,4 @@ Rising Intonation-Maybe Just a Few Hours?
 
 Video ([MP4 - 25MB](http://www.archive.org/download/MIT21F.034F05/ocw-21f-034-susan-adv-int-class-1-220k.mp4))
 
-Video Text ([PDF]({{< baseurl >}}/resources/mit21g_034f05_adv_int))
+Video Text ({{% resource_link 4ceaa91e-25a5-911c-9252-b7776b5bbef8 "PDF" %}})

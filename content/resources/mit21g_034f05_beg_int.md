@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a helping video text on Agreeing- "The messy apartment."
-file: /media/courses/21g-034-media-education-and-the-marketplace-fall-2005/6ec6d469e73e56e514f23030c06a637d_MIT21G_034F05_beg_int.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/6ec6d469e73e56e514f23030c06a637d_MIT21G_034F05_beg_int.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: Class One- Beginner Intermediate Level
 uid: 6ec6d469-e73e-56e5-14f2-3030c06a637d
 ---
+This resource includes a helping video text on Agreeing- "The messy apartment."
+

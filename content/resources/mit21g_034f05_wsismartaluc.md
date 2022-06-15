@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on Marta Luczynska.
-file: /media/courses/21g-034-media-education-and-the-marketplace-fall-2005/ba073176cb6130564c661ebf37112ee2_MIT21G_034F05_wsismartaluc.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/ba073176cb6130564c661ebf37112ee2_MIT21G_034F05_wsismartaluc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Marta Luczynska
 uid: ba073176-cb61-3056-4c66-1ebf37112ee2
 ---
+This resource includes information on Marta Luczynska.
+

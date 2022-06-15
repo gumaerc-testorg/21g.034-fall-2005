@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains course description, objectives, format, fieldwork
+  and final projects, attendance policy, grading criteria, and other related informations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -38,7 +40,7 @@ For each lecture that does not feature a guest lecture, we begin with a presenta
 Fieldwork Projects
 ------------------
 
-Each student in the course works on a project that affects either a local or global community. The class organizers feel that having on-site experience with issues relating to information technology and development is **crucial** to understanding the underlying difficulties in implementing effective ICT policy, both at home and abroad. These project ideas are showcased in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+Each student in the course works on a project that affects either a local or global community. The class organizers feel that having on-site experience with issues relating to information technology and development is **crucial** to understanding the underlying difficulties in implementing effective ICT policy, both at home and abroad. These project ideas are showcased in the {{% resource_link 817b383e-7b82-2721-ac2c-16292898491a "lecture notes" %}} section.
 
 There are three options for this field work:
 
