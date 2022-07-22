@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/869da39f9f6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: WSIS Background
 uid: 869da39f-9f62-b343-da62-e66c00558e22
 ---
 This resource includes information on the WSIS context, goals, and structure.
-

@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/ac5e6fc8a82
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Radio Farm Forum
 uid: ac5e6fc8-a82b-2782-d50b-921a376df7ba
 ---
 This resource includes information on ICT developing authority, zambian ICT capabilities, and RFF.
-

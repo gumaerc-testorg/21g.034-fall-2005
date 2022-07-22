@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: iREACT
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ireact_pic.jpg
 uid: d5d4e79b-03da-5cc7-7f95-6b7bfc471547
 ---
 An iREACT co-founder, Jamira Cotton, teaching in Zambia during the summer of 2005. (The image is courtesy of Jamira Cotton.)
-

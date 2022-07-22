@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/fd5d30eb8b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Grading Rubric for Oral Presentations
 uid: fd5d30eb-8b11-7293-8714-7a298be549cd
 ---
 This resource includes the criteria on which the gradings will be based i.e. substance, AV aids and style.
-

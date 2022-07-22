@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/cdeba93cb44
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Project description
 uid: cdeba93c-b44e-729e-9626-17972101315d
 ---
 This resource includes information on significance and importance of project, overview, and goals.
-

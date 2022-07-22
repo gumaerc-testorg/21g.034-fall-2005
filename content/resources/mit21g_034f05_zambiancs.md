@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/b64ff1a2621
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Abstract
 uid: b64ff1a2-621d-fac3-7a92-e58690ebf9e5
 ---
 This resource include information on background, imapct, challenges, on radio farm forum and afronet: learning from successful ICT projects in zambia.
-

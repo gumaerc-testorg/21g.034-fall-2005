@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/8d3ac7b5d8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Revising the Draft
 uid: 8d3ac7b5-d8c3-d378-af20-86f0d5ec7b37
 ---
 This resource includes information on how to revise.
-

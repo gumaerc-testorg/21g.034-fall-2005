@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/fda6e2e5752
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The dot com boom of the mid 1990s ushered in a new wave of technological 
 uid: fda6e2e5-7529-104d-3594-9d2723addbcf
 ---
 This resource includes information on general analysis, in depth look, and examples.
-

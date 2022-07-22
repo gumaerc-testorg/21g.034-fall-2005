@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/f101d36e9a0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: DH-Fieldwork_Proposal marta_graded
 uid: f101d36e-9a0e-a610-4397-b512b3387551
 ---
 This resource includes information on DH-fieldwork proposal Marta graded.
-

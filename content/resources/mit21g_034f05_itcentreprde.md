@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/28e4f49a85d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21G
 uid: 28e4f49a-85d4-9e20-f440-960184b17629
 ---
 This resource includes information on five discernable misconceptions about the nature of the bottom-of-pyramid (BOP) market.
-

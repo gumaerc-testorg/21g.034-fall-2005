@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/42bf6e2015a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Outsource Africa
 uid: 42bf6e20-15a6-d03f-b1dc-89f2df35c7dd
 ---
 This resource includes information on outsource Africa.
-

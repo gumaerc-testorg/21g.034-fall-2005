@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/6c9220b7cc5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21G
 uid: 6c9220b7-cc52-9944-418c-a33fea8116f4
 ---
 This resource includes information on fieldwork proposal.
-

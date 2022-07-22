@@ -5,6 +5,7 @@ description: This resource contains adjusting, stages of cultural adjustment, an
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/88a7cdadf77293e0922d69bfefc0fbdc_MIT21G_034F05_beingintlstu.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: iREACT
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Being an Int\u2019l Student in America (Courtesy of the Embassy of the U
 uid: 88a7cdad-f772-93e0-922d-69bfefc0fbdc
 ---
 This resource contains adjusting, stages of cultural adjustment, and adjustment tips from International students.
-

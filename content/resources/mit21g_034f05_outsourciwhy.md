@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/632cb5b645f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Why is India such a big player in this sector
 uid: 632cb5b6-45f0-f231-7311-3e0fe9b9827c
 ---
 This resource includes information on outsourcing.
-

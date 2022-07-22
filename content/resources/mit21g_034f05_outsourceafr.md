@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/c4f5d428ba6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Project Proposal Outline
 uid: c4f5d428-ba62-1a42-5dc9-41bcabafc1dd
 ---
 This resource includes information on outcome and project plan, post zambia work, plan, and budgets.
-

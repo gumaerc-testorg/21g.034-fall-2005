@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/7ea941db2cc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'The Impact of MEET:  A Case Study'
 uid: 7ea941db-2cc1-15af-74d9-bc95338c485d
 ---
 This resource includes information on MEET: overview, program goals, student selection, the organization, and conflict resolutions.
-

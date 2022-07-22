@@ -5,6 +5,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/00838946b62
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'SOME TIPS FOR EFFECTIVE WRITING: Visualizing Cultures 2'
 uid: 00838946-b626-3def-b589-0b4f43eb36a2
 ---
 This resource includes the tips for effective writing.
-

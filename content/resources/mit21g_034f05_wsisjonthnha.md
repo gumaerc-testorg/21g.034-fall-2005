@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/fd88b4df96e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: With the advent of the Information Society, information itself has become
 uid: fd88b4df-96e4-a1a7-172f-76fa4e849cae
 ---
 This resource includes information on the advent of the information society, information itself has become a prized commodity on the market.
-

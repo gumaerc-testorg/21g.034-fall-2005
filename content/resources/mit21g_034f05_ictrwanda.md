@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/0d481f406db
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Information and Communication Technology Policy in Rwanda
 uid: 0d481f40-6db0-84b0-f7ae-745300e2769d
 ---
 This resource includes information on ITC policy in rwanda, progress made by them, and problem faced.
-

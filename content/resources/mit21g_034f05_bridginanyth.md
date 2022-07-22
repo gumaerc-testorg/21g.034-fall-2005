@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/c0e649d3de6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Is there a digital divide?
 uid: c0e649d3-de6a-e197-5895-364b1e07435a
 ---
 This resource includes information on digital device, technology of USA, and technological disparity.
-

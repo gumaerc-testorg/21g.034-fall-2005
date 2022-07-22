@@ -5,6 +5,7 @@ description: This resource contains topics why take the TOEFL? how to test, cent
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/1a4db59f34f92406089dc92ed642ce47_MIT21G_034F05_intrototoefl.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: iREACT
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to TOEFL  (see http://educationusa.state.gov/undergrad/testi
 uid: 1a4db59f-34f9-2406-089d-c92ed642ce47
 ---
 This resource contains topics why take the TOEFL? how to test, centers and test dates, registration, content of exam, and scores.
-

@@ -6,6 +6,7 @@ file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/2937b5455ba
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class One- Beginner Intermediate Level
 uid: 2937b545-5ba8-6905-03d6-212c40c8b602
 ---
 This resource includes information on class one- beginner intermediate level.
-
