@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section conatins the information about the lectures and
+  the presenters for the respective lectures.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e392db57-5663-682d-ff24-969a6181586e
 ---
