@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on outsourcing.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/632cb5b645f0f23173113e0fe9b9827c_MIT21G_034F05_outsourciwhy.pdf
+file_size: 602868
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on WSIS background and goals.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/f1d71033377bad248f2e012dfec4d3f5_MIT21G_034F05_wsis_assign.pdf
+file_size: 531551
 file_type: application/pdf
 learning_resource_types:
 - Projects

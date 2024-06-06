@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on the WSIS context, goals, and structure.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/869da39f9f62b343da62e66c00558e22_MIT21G_034F05_wsisbackgrou.pdf
+file_size: 624742
 file_type: application/pdf
 learning_resource_types:
 - Projects

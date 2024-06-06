@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a help video text on advanced intermediate class.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/4ceaa91e25a5911c9252b7776b5bbef8_MIT21G_034F05_adv_int.pdf
+file_size: 64168
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
