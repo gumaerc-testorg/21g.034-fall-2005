@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on political chapeau, tunis commitment,
   and operational part of final agenda.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/9909f440b32c3a60ddfa7eb62709cb4f_MIT21G_034F05_ocwprepcom3f.pdf
+file_size: 614491
 file_type: application/pdf
 learning_resource_types:
 - Projects

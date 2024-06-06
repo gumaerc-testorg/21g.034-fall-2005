@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding the project proposal and
   details on Cambridge access project.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/6a7c90fd2297da7b7e8fbd4adc77bd00_MIT21G_034F05_captheresaeu.pdf
+file_size: 583938
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes tips for oral presentation.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/bd866f3e64a120f17a34064be851ef61_MIT21G_034F05_tipsfororalp.pdf
+file_size: 76289
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
