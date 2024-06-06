@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on general analysis, in depth look,
   and examples.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/fda6e2e57529104d35949d2723addbcf_MIT21G_034F05_itglobal.pdf
+file_size: 99310
 file_type: application/pdf
 learning_resource_types:
 - Projects

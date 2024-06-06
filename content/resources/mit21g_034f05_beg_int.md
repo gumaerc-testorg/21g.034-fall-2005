@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a helping video text on Agreeing- "The messy apartment."
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/6ec6d469e73e56e514f23030c06a637d_MIT21G_034F05_beg_int.pdf
+file_size: 64041
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on information and communication technology
   policy in Rwanda.
 file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/bd9084fd06dfc2c1eabbd6889cec51e1_MIT21G_034F05_ictpolicyrwa.pdf
+file_size: 112422
 file_type: application/pdf
 learning_resource_types:
 - Projects
