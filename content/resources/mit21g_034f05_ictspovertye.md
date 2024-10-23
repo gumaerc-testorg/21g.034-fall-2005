@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes information on the developing world, role of information
   technology, information and communication technologies, agricultural prodictivity,
   and information dissemination.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/486d62be0285875b11cc55695d4b6c60_MIT21G_034F05_ictspovertye.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/486d62be0285875b11cc55695d4b6c60_MIT21G_034F05_ictspovertye.pdf
 file_size: 97481
 file_type: application/pdf
 learning_resource_types:

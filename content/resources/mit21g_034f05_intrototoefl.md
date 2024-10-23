@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains topics why take the TOEFL? how to test, centers
   and test dates, registration, content of exam, and scores.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/1a4db59f34f92406089dc92ed642ce47_MIT21G_034F05_intrototoefl.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/1a4db59f34f92406089dc92ed642ce47_MIT21G_034F05_intrototoefl.pdf
 file_size: 539808
 file_type: application/pdf
 learning_resource_types: []
