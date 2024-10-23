@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a form to be used by peer while editing the questionnaire.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/2e6cdb47d0f1a3d61fb9883006b77617_MIT21G_034F05_peereditnque.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/2e6cdb47d0f1a3d61fb9883006b77617_MIT21G_034F05_peereditnque.pdf
 file_size: 565341
 file_type: application/pdf
 learning_resource_types:

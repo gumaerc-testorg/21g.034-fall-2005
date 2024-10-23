@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on investigation, outline, looking
   back, service sector, and manufacturing.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/86ba99369a2e7ad87cb52794f642db33_MIT21G_034F05_itandglobalm.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/86ba99369a2e7ad87cb52794f642db33_MIT21G_034F05_itandglobalm.pdf
 file_size: 553516
 file_type: application/pdf
 learning_resource_types:
