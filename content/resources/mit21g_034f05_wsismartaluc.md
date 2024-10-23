@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on Marta Luczynska.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/ba073176cb6130564c661ebf37112ee2_MIT21G_034F05_wsismartaluc.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/ba073176cb6130564c661ebf37112ee2_MIT21G_034F05_wsismartaluc.pdf
 file_size: 122249
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on DH-fieldwork proposal Marta graded.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/f101d36e9a0ea6104397b512b3387551_MIT21G_034F05_openzambiama.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/f101d36e9a0ea6104397b512b3387551_MIT21G_034F05_openzambiama.pdf
 file_size: 99935
 file_type: application/pdf
 learning_resource_types:
