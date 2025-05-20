@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains adjusting, stages of cultural adjustment, and
   adjustment tips from International students.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/88a7cdadf77293e0922d69bfefc0fbdc_MIT21G_034F05_beingintlstu.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/88a7cdadf77293e0922d69bfefc0fbdc_MIT21G_034F05_beingintlstu.pdf
 file_size: 529942
 file_type: application/pdf
 learning_resource_types: []

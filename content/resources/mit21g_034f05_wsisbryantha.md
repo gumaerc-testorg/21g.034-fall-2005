@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on Bryant Harrison.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/a704f6fb2fe82cab651f1c47b6c9f48e_MIT21G_034F05_wsisbryantha.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/a704f6fb2fe82cab651f1c47b6c9f48e_MIT21G_034F05_wsisbryantha.pdf
 file_size: 575688
 file_type: application/pdf
 learning_resource_types:

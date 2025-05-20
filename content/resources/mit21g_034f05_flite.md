@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on project plan, abstract, and impact
   of flite.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/15c346b1aadc0c1a2f975bbc36edf560_MIT21G_034F05_flite.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/15c346b1aadc0c1a2f975bbc36edf560_MIT21G_034F05_flite.pdf
 file_size: 667236
 file_type: application/pdf
 learning_resource_types:
