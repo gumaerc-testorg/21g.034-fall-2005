@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes points of discussion on the ICT entrepreneurship.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/348b2dd8e72efddf0ad41698158ecf47_MIT21G_034F05_ictentrpnshp.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/348b2dd8e72efddf0ad41698158ecf47_MIT21G_034F05_ictentrpnshp.pdf
 file_size: 558362
 file_type: application/pdf
 learning_resource_types:

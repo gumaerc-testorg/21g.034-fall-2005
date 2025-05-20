@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on outcome and project plan, post
   zambia work, plan, and budgets.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/c4f5d428ba621a425dc941bcabafc1dd_MIT21G_034F05_outsourceafr.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/c4f5d428ba621a425dc941bcabafc1dd_MIT21G_034F05_outsourceafr.pdf
 file_size: 104366
 file_type: application/pdf
 learning_resource_types:

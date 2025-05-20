@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains what is a blog? how blogs have changed the internet,
   how blogs have changed society, politics, the news, and controversy.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/32f7edb3d28afcd1139fc9bd49b7fd38_MIT21G_034F05_blogs.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/32f7edb3d28afcd1139fc9bd49b7fd38_MIT21G_034F05_blogs.pdf
 file_size: 550850
 file_type: application/pdf
 learning_resource_types: []

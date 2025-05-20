@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the points of the WSIS discussion.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/9c0db9735dde7008737b39affbcf46c6_MIT21G_034F05_wsisdiscussi.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/9c0db9735dde7008737b39affbcf46c6_MIT21G_034F05_wsisdiscussi.pdf
 file_size: 133665
 file_type: application/pdf
 learning_resource_types:

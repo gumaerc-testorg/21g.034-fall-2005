@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on digital divide, bridging the digital
   divide, and history of telephone industry.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/61cbdcc6525e376f6dba4170fd9a2447_MIT21G_034F05_bridginworth.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/61cbdcc6525e376f6dba4170fd9a2447_MIT21G_034F05_bridginworth.pdf
 file_size: 553995
 file_type: application/pdf
 learning_resource_types:

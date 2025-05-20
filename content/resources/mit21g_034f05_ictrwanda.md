@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on ITC policy in rwanda, progress
   made by them, and problem faced.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/0d481f406db084b0f7ae745300e2769d_MIT21G_034F05_ictrwanda.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/0d481f406db084b0f7ae745300e2769d_MIT21G_034F05_ictrwanda.pdf
 file_size: 101195
 file_type: application/pdf
 learning_resource_types:

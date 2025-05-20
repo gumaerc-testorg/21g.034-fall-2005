@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on program introduction.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/d1e7b53c22fb54f3d865592766299547_MIT21G_034F05_ireact.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/d1e7b53c22fb54f3d865592766299547_MIT21G_034F05_ireact.pdf
 file_size: 141573
 file_type: application/pdf
 learning_resource_types:

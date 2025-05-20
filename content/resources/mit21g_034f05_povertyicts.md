@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on poverty eradication and the role
   of ICTs.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/182082675d414059c5f0849d181c5dbb_MIT21G_034F05_povertyicts.pdf
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/182082675d414059c5f0849d181c5dbb_MIT21G_034F05_povertyicts.pdf
 file_size: 541393
 file_type: application/pdf
 learning_resource_types:

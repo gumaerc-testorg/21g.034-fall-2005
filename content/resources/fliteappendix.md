@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a specila file comtaining information on Flite.
-file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/4971cd43d30bf16b61e8ce6655ae23ad_FLiTEAppendix.xls
+file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/4971cd43d30bf16b61e8ce6655ae23ad_FLiTEAppendix.xls
 file_size: 55296
 file_type: application/msword
 learning_resource_types:
