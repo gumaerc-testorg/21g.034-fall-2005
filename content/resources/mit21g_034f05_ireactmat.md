@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains program content, OCW component, sustainability,
   and current preparation for students.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/469433c6b82969344115768303db411d_MIT21G_034F05_ireactmat.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/469433c6b82969344115768303db411d_MIT21G_034F05_ireactmat.pdf
 file_size: 541395
 file_type: application/pdf
 learning_resource_types: []
