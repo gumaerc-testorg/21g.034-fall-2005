@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on report on the work of the group
   of friends of the chair, Tunis agenda, plan, and annex.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/9a69426162d3d57f5496e1f365b8fdbd_MIT21G_034F05_gfc_report.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/9a69426162d3d57f5496e1f365b8fdbd_MIT21G_034F05_gfc_report.pdf
 file_size: 273900
 file_type: application/pdf
 learning_resource_types:

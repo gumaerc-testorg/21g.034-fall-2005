@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on grameen phones, voxiva, GT benifits,
   GP-Gt interaction and measures of success.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/c55544f116d2b6d836e5a3adb8258650_MIT21G_034F05_itcspastpro.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/c55544f116d2b6d836e5a3adb8258650_MIT21G_034F05_itcspastpro.pdf
 file_size: 618702
 file_type: application/pdf
 learning_resource_types:

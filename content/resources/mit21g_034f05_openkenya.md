@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on significance and importance of
   project, overview, and goals.
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/cdeba93cb44e729e962617972101315d_MIT21G_034F05_openkenya.pdf
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/cdeba93cb44e729e962617972101315d_MIT21G_034F05_openkenya.pdf
 file_size: 95160
 file_type: application/pdf
 learning_resource_types:

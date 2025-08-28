@@ -2,7 +2,7 @@
 content_type: resource
 description: An iREACT co-founder, Jamira Cotton, teaching in Zambia during the summer
   of 2005. (The image is courtesy of Jamira Cotton.)
-file: /courses/21g-034-media-education-and-the-marketplace-fall-2005/d5d4e79b03da5cc77f956b7bfc471547_ireact_pic.jpg
+file: /ol-ocw-studio-app/courses/21g-034-media-education-and-the-marketplace-fall-2005/d5d4e79b03da5cc77f956b7bfc471547_ireact_pic.jpg
 file_size: 160080
 file_type: image/jpeg
 image_metadata:
