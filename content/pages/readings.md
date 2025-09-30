@@ -104,15 +104,15 @@ Bridging the Digital Divide: Is There Anything to Bridge? Is It Worth It?
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531931) National Telecommunications and Information Administration. "Falling through the Net: Defining the Digital Divide." In [_The Digital Divide: Facing a Crisis or Creating a Myth?_](https://mitpress.mit.edu/9780262531931) Edited by Benjamin M. Compaine. Cambridge, MA: MIT Press, 2001, pp. 17-46. ISBN: 9780262531931.
+{{% resource_link "154d757a-d067-40ea-8da5-fec5545aada3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} National Telecommunications and Information Administration. "Falling through the Net: Defining the Digital Divide." In {{% resource_link "154d757a-d067-40ea-8da5-fec5545aada3" "_The Digital Divide: Facing a Crisis or Creating a Myth?_" %}} Edited by Benjamin M. Compaine. Cambridge, MA: MIT Press, 2001, pp. 17-46. ISBN: 9780262531931.
 
 Friedman, Thomas. _The World is Flat: A Brief History of the Twenty-First Century_. New York, NY: Farrar, Straus, and Giroux, 2005, pp. 3-47. ISBN: 9780374292881.
 
 Norris, Pippa. _Digital Divide: Civic Engagement, Information Poverty, and the Internet Worldwide_. Cambridge, UK: Cambridge University Press, 2001, chapters 1-2, pp. 3-38. ISBN: 9780521002233.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531931) Compaine, Benjamin, ed. "Information Gaps: Myth or Reality?" In [_The Digital Divide: Facing a Crisis or Creating a Myth?_](https://mitpress.mit.edu/9780262531931) Cambridge, MA: MIT Press, 2001, pp. 105-118. ISBN: 9780262531931.
+{{% resource_link "154d757a-d067-40ea-8da5-fec5545aada3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Compaine, Benjamin, ed. "Information Gaps: Myth or Reality?" In {{% resource_link "154d757a-d067-40ea-8da5-fec5545aada3" "_The Digital Divide: Facing a Crisis or Creating a Myth?_" %}} Cambridge, MA: MIT Press, 2001, pp. 105-118. ISBN: 9780262531931.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531931) Compaine, Benjamin, and Mitchell J. Weinramb. "Universal Access to Online Services: An Examination of the Issue." In [_The Digital Divide: Facing a Crisis or Creating a Myth?_](https://mitpress.mit.edu/9780262531931) Edited by Benjamin M. Compaine. Cambridge, MA: MIT Press, 2001, pp. 147-177. ISBN: 9780262531931.
+{{% resource_link "154d757a-d067-40ea-8da5-fec5545aada3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Compaine, Benjamin, and Mitchell J. Weinramb. "Universal Access to Online Services: An Examination of the Issue." In {{% resource_link "154d757a-d067-40ea-8da5-fec5545aada3" "_The Digital Divide: Facing a Crisis or Creating a Myth?_" %}} Edited by Benjamin M. Compaine. Cambridge, MA: MIT Press, 2001, pp. 147-177. ISBN: 9780262531931.
 
 Alden, Christopher. "Let Them Eat Cyberspace: Africa, the G8 and the Digital Divide." _Millennium: Journal of International Studies_ 32, no. 3 (2003): 457-476.
 
@@ -138,11 +138,11 @@ Effective Proposal Writing
 {{< tdopen >}}
 
 
-[Proposal Writing: Internet Resources](http://library.brown.edu/gateway/lrg.php?id=606&task=custom&contentid=12455) - pay close attention to the following sections:  
-\- [Basic Elements of Grant Writing](http://www.cpb.org/grants/grantwriting.html)  
-\- [GrantProposal.com](http://www.grantproposal.com/)  
-\- [Proposal Writing Short Course](http://foundationcenter.org/getstarted/tutorials/shortcourse/index.html)  
-\- [Proposal Writing Budgeting Basics](http://foundationcenter.org/getstarted/tutorials/shortcourse/budget.html)
+{{% resource_link "516c6e9b-185c-4623-926e-78112cc67483" "Proposal Writing: Internet Resources" %}} - pay close attention to the following sections:  
+\- {{% resource_link "e010ef47-d9f5-4b55-b084-472d1387f464" "Basic Elements of Grant Writing" %}}  
+\- {{% resource_link "899ddc70-bfa8-42fc-acbd-8acb9bdf83b3" "GrantProposal.com" %}}  
+\- {{% resource_link "59affbe4-06a9-40ab-91c6-700a39b21d43" "Proposal Writing Short Course" %}}  
+\- {{% resource_link "0e227faf-e9f7-4eb2-b269-14a19031c561" "Proposal Writing Budgeting Basics" %}}
 
 Friedman, Thomas. _The World is Flat: A Brief History of the Twenty-First Century_. New York, NY: Farrar, Straus, and Giroux, 2005, pp. 309-336. ISBN: 9780374292881.
 
